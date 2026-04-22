@@ -6,6 +6,22 @@ A structured brand reference for the Everlab growth team. This repo is the singl
 
 ---
 
+## Fonts
+
+Brand fonts are licensed and not hosted in this repo. Download from the link below and install locally before using Claude Design.
+
+| Font | Usage |
+|---|---|
+| Tobias | Display / hero headlines |
+| Saans | Primary sans — body, UI, labels |
+| Saans Mono | Data labels, biomarker callouts |
+
+📁 [Download brand fonts from Google Drive](https://drive.google.com/open?id=12tjqcpKmWTltPGI4caTunG5bBD0R-ngz&usp=drive_fs)
+
+> If brand fonts aren't available, Claude Design will fall back to **STIX Two Text** (Tobias substitute) and **Inter** (Saans substitute) — both available on Google Fonts.
+
+---
+
 ## Who this is for
 
 - **Keith & Jake** — for use with Claude Design to generate on-brand content and layouts
